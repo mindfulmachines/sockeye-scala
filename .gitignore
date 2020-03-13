@@ -1,0 +1,12 @@
+*.swp
+
+**/.DS_Store
+**/.build
+**/.idea
+**/.publish
+prose-scala/project/target
+/.sbt-launch*.jar*
+train/
+**/target
+tmp/
+
